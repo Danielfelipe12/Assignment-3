@@ -1,0 +1,67 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background: #dc2424; 
+  background: -webkit-linear-gradient(to right, #dc2424, #4a569d); 
+  background: linear-gradient(to right, #dc2424, #4a569d);
+}
+h1{
+font-size: 44px;
+font-family: sans-serif ;
+font-style: italic; 
+max-width: 100%;
+}
+h2{
+  font-size: 38px;
+  max-width: 100%;
+}
+h3{
+  font-size: 35px;
+  max-width: 100%;
+}
+p{
+  font-size: 25px;
+  max-width: 100%;
+  margin: 0;
+}
+#Chocolate1{
+  width: 320px;
+  height: 320px;
+  vertical-align: middle;
+  margin: auto;
+}
+#Chocolate2{
+  width: 600px;
+  height: 350px;
+  vertical-align: middle;
+  margin: auto;
+}
+#Chocolate3{
+  width: 600px;
+  height: 350px;
+  vertical-align: middle;
+  margin: auto;
+
+}
+#Chocolate4{
+  width: 17cm;
+  height: 300px;
+  vertical-align: middle;
+  margin: auto;
+}
+.contenedor {
+  background-color: #ffff;
+  padding: 20px;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.contenedor:hover {
+  background-color: #CCCCCC;
+}
+#Lg{
+  width: 150px;
+  height: 150px;
+}
